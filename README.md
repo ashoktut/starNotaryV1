@@ -1,6 +1,6 @@
 # starNotaryV1
 
-esson 3. Star Notary V1
+Star Notary V1
 
 For this you will need to use the latest version of Truffle and Metamask
 
